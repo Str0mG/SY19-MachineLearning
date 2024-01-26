@@ -1,0 +1,9 @@
+*.jpg
+*.csv
+*.py
+images_train/
+images_train copy/
+not/
+backup/
+
+
